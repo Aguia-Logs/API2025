@@ -12,67 +12,67 @@ Leonardo | Equipe Scrum | Leo695 | https://www.linkdin.com/in/leonardo-fernandes
 
 fABRINA | Equipe Scrum | Fabrina | (https://www.linkedin.com/in/fabrina-camargo-385703302?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
-Sprint 01 - 02/04
+# Sprint 01 - 02/04 
 
- Fazer User Story
+ - Fazer User Story
 
- Mapear a Fonte de dados
+ - Mapear a Fonte de dados
 
- Identificação dos dados
+ - Identificação dos dados
 
- Relacionar dados
+ - Relacionar dados
 
- Fazer um Dashboard simples no Power BI
+ - Fazer um Dashboard simples no Power BI
 
- Aprendizado Python pelo Google Colab
+ - Aprendizado Python pelo Google Colab
 
- GitHub
+ - GitHub
 
-Sprint 02 - 23/04
+# Sprint 02 - 23/04
 
- Aprendizado de Python
+- Aprendizado de Python
 
- Começar a filtrar as tabelas de informações no Python
+- Começar a filtrar as tabelas de informações no Python
 
- Protótipo do Dashboard 02
+- Protótipo do Dashboard 02
 
- Identificar Receitas Federais mais utilizadas
+- Identificar Receitas Federais mais utilizadas
 
- Identificar Estados que mais exportam no Brasil
+- Identificar Estados que mais exportam no Brasil
 
- Apresentação Dashboard 02
+- Apresentação Dashboard 02
 
- Atualizar GitHub
+- Atualizar GitHub
 
-Sprint 03 - 14/05
+# Sprint 03 - 14/05
 
- Aprendizado de Python
+- Aprendizado de Python
 
- Continuar a filtração das tabelas no Python
+- Continuar a filtração das tabelas no Python
 
- Protótipo Dashboard 03
+- Protótipo Dashboard 03
 
- Identificar Receitas por maior Peso de Carga, Maior valor FoB, e maior Valor Agregado
+- Identificar Receitas por maior Peso de Carga, Maior valor FoB, e maior Valor Agregado
 
- Identificar Rotas de transporte exterior mais utilizadas
+- Identificar Rotas de transporte exterior mais utilizadas
 
- Analisar tendencia de cargas ao longo dos anos
+- Analisar tendencia de cargas ao longo dos anos
 
- Apresentação Dashboard 03
+- Apresentação Dashboard 03
 
- Atualizar GitHub
+- Atualizar GitHub
 
-Sprint 04 - 25/06
+# Sprint 04 - 25/06
 
- Aprendizado de Pytho
+- Aprendizado de Python
 
-.Apresentação do GitHub
+- Apresentação do GitHub
 
- Protótipo Dashboard Final
+- Protótipo Dashboard Final
 
- Atualização dos dados anteriores
+- Atualização dos dados anteriores
+ 
+- Apresentação Dashboard Final
 
- Apresentação Dashboard Final
-
- Finalização do GitHub
+- Finalização do GitHub
 
