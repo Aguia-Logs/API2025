@@ -25,12 +25,7 @@ Descrição da demanda realizada pelo parceiro acadêmico.
 |  Team Member  | Leonardo Fernandes                |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-fernandes-8a28252b3/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Leo695)   |
 
 # Objetivo do Projeto
-Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
-* Centralizar os trabalhos e projetos;
-* Organizar e estruturar as informações;
-* Versionar e controlar as alterações;
-* Facilitar o compartilhamento e feedback;
-* Desenvolver habilidades técnicas.
+Este projeto tem como finalidade analisar e aprimorar o processo de exportação do Brasil para os países que recebem os principais produtos exportados, com base nos dados fornecidos pelo Comex Stat. A análise será realizada utilizando informações dos anos de 2022 a 2024, com o intuito de filtrar, por estados brasileiros, as receitas federais que processam as informações mais relevantes sobre o destino final das exportações. O objetivo é fornecer uma visão detalhada e estratégica, a fim de identificar padrões, oportunidades de melhoria e otimização no comércio exterior brasileiro, promovendo a eficiência e o crescimento nas operações de exportação.
 
 ## Tecnologias Utilizadas
 
