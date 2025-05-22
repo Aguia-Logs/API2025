@@ -88,7 +88,7 @@ Sprint, de forma clara e objetiva.
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |01| 02/04/2025 | concluido| [MVP](https://) | 
-|02| 30/04/2025 | a fazer|[MVP](https://) | 
-|03| 14/05/2025 | a fazer|[MVP](https://) | 
+|02| 30/04/2025 | concluido|[MVP](https://) | 
+|03| 04/06/2025 | a fazer|[MVP](https://) | 
 |Feira de Soluções|17/06/2025 |a fazer |[MVP](https://) | 
 
